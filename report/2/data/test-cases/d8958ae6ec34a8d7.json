@@ -1,0 +1,118 @@
+{
+  "uid" : "d8958ae6ec34a8d7",
+  "name" : "test_login_c",
+  "fullName" : "test_file13.Testlogin#test_login_c",
+  "historyId" : "c7ec07148b0283268a131d2b5af5a7e4",
+  "time" : {
+    "start" : 1614582295263,
+    "stop" : 1614582295263,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bca83dbe2f4b870a",
+      "name" : "stdout",
+      "source" : "bca83dbe2f4b870a.txt",
+      "type" : "text/plain",
+      "size" : 16
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "用户名缺失"
+  }, {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "suite",
+    "value" : "test_file13"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testlogin"
+  }, {
+    "name" : "host",
+    "value" : "ZhouKun-Laptop"
+  }, {
+    "name" : "thread",
+    "value" : "24012-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_file13"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ff5cf3dcc64b7f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614580738315,
+        "stop" : 1614580738315,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c413b0b0d135c9d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614573599141,
+        "stop" : 1614573599142,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "86459353b2e5c38f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614571821889,
+        "stop" : 1614571821890,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c9f36f6c76474873",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614529851446,
+        "stop" : 1614529851446,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "980d0181db5bef6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614503954162,
+        "stop" : 1614503954163,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d8958ae6ec34a8d7.json",
+  "parameterValues" : [ ]
+}

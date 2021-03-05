@@ -1,0 +1,88 @@
+{
+  "uid" : "3d474ceac023ceb4",
+  "name" : "test_with_link",
+  "fullName" : "test_file13.Testlogin#test_with_link",
+  "historyId" : "67f9db520afe5aee1b92cff4506e2b5f",
+  "time" : {
+    "start" : 1614503954179,
+    "stop" : 1614503954180,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "53ed122adc09fccc",
+      "name" : "stdout",
+      "source" : "53ed122adc09fccc.txt",
+      "type" : "text/plain",
+      "size" : 34
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "story",
+    "value" : "链接功能"
+  }, {
+    "name" : "suite",
+    "value" : "test_file13"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testlogin"
+  }, {
+    "name" : "host",
+    "value" : "ZhouKun-Laptop"
+  }, {
+    "name" : "thread",
+    "value" : "33220-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_file13"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "BUG清单",
+    "url" : "100",
+    "type" : "issue"
+  }, {
+    "name" : "百度首页",
+    "url" : "https://www.baidu.com/",
+    "type" : "link"
+  }, {
+    "name" : "登录用例",
+    "url" : "https://www.baidu.com/",
+    "type" : "test_case"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d474ceac023ceb4.json",
+  "parameterValues" : [ ]
+}

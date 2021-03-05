@@ -1,0 +1,72 @@
+{
+  "uid" : "d9fb6e3d65178ee2",
+  "name" : "test_attach_photo",
+  "fullName" : "test_file13.Testlogin#test_attach_photo",
+  "historyId" : "192fdfb6f8b2eef1903e0a56847ea62d",
+  "time" : {
+    "start" : 1614612095750,
+    "stop" : 1614612095751,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6e707dbdbfeb78f",
+      "name" : "图片",
+      "source" : "6e707dbdbfeb78f.jpg",
+      "type" : "image/jpg",
+      "size" : 87841
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "suite",
+    "value" : "test_file13"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testlogin"
+  }, {
+    "name" : "host",
+    "value" : "ZhouKun-Laptop"
+  }, {
+    "name" : "thread",
+    "value" : "24568-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_file13"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d9fb6e3d65178ee2.json",
+  "parameterValues" : [ ]
+}

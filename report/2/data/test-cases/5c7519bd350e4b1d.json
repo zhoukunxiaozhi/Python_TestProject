@@ -1,0 +1,78 @@
+{
+  "uid" : "5c7519bd350e4b1d",
+  "name" : "test_attach_text",
+  "fullName" : "test_file13.Testlogin#test_attach_text",
+  "historyId" : "6f6151bec8bf46d53e91ae37f1491722",
+  "time" : {
+    "start" : 1614582295272,
+    "stop" : 1614582295273,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "14354e83ed95d10b",
+      "name" : "76da8363-6828-45a4-b66e-fcfe6d446177-attachment.txt",
+      "source" : "14354e83ed95d10b.txt",
+      "type" : "text/plain",
+      "size" : 27
+    }, {
+      "uid" : "2bd6036c2789307a",
+      "name" : "stdout",
+      "source" : "2bd6036c2789307a.txt",
+      "type" : "text/plain",
+      "size" : 34
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "suite",
+    "value" : "test_file13"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testlogin"
+  }, {
+    "name" : "host",
+    "value" : "ZhouKun-Laptop"
+  }, {
+    "name" : "thread",
+    "value" : "24012-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_file13"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c7519bd350e4b1d.json",
+  "parameterValues" : [ ]
+}

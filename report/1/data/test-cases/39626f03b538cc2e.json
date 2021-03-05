@@ -1,0 +1,52 @@
+{
+  "uid" : "39626f03b538cc2e",
+  "name" : "test_skip",
+  "fullName" : "test_file13#test_skip",
+  "historyId" : "52541b754452d03fab9e486a2ab3ec44",
+  "time" : {
+    "start" : 1614247805555,
+    "stop" : 1614247805555,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: for a reason!",
+  "statusTrace" : "('D:\\\\Software\\\\PyCharm\\\\Python_TestProject\\\\test_file13.py', 10, 'Skipped: for a reason!')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_file13"
+  }, {
+    "name" : "host",
+    "value" : "ZhouKun-Laptop"
+  }, {
+    "name" : "thread",
+    "value" : "17572-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_file13"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "39626f03b538cc2e.json",
+  "parameterValues" : [ ]
+}

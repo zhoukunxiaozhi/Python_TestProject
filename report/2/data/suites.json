@@ -1,0 +1,91 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_file13",
+    "children" : [ {
+      "name" : "Testlogin",
+      "children" : [ {
+        "name" : "test_login_a",
+        "uid" : "3c4f08c3fec18d9a",
+        "parentUid" : "79793bee5988d1b5730866718da9f347",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614582295257,
+          "stop" : 1614582295257,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_b",
+        "uid" : "7a64fcebcd322c61",
+        "parentUid" : "79793bee5988d1b5730866718da9f347",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614582295260,
+          "stop" : 1614582295260,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_c",
+        "uid" : "d8958ae6ec34a8d7",
+        "parentUid" : "79793bee5988d1b5730866718da9f347",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614582295263,
+          "stop" : 1614582295263,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_d",
+        "uid" : "343a00702fdaf49f",
+        "parentUid" : "79793bee5988d1b5730866718da9f347",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614582295265,
+          "stop" : 1614582295266,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_with_link",
+        "uid" : "f1f5057c622e5844",
+        "parentUid" : "79793bee5988d1b5730866718da9f347",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614582295268,
+          "stop" : 1614582295269,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_attach_text",
+        "uid" : "5c7519bd350e4b1d",
+        "parentUid" : "79793bee5988d1b5730866718da9f347",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614582295272,
+          "stop" : 1614582295273,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "79793bee5988d1b5730866718da9f347"
+    } ],
+    "uid" : "c4b331a106de476386a470156c6ee737"
+  } ]
+}

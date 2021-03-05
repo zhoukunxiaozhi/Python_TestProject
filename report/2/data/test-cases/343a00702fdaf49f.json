@@ -1,0 +1,163 @@
+{
+  "uid" : "343a00702fdaf49f",
+  "name" : "test_login_d",
+  "fullName" : "test_file13.Testlogin#test_login_d",
+  "historyId" : "83d728e9cacfc5e9ad1560ebb230ba05",
+  "time" : {
+    "start" : 1614582295265,
+    "stop" : 1614582295266,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "输入用户名",
+      "time" : {
+        "start" : 1614582295265,
+        "stop" : 1614582295265,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "输入密码",
+      "time" : {
+        "start" : 1614582295265,
+        "stop" : 1614582295265,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "点击登录",
+      "time" : {
+        "start" : 1614582295265,
+        "stop" : 1614582295265,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "a7cac0595cef0c20",
+      "name" : "stdout",
+      "source" : "a7cac0595cef0c20.txt",
+      "type" : "text/plain",
+      "size" : 55
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "story",
+    "value" : "密码缺失"
+  }, {
+    "name" : "suite",
+    "value" : "test_file13"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testlogin"
+  }, {
+    "name" : "host",
+    "value" : "ZhouKun-Laptop"
+  }, {
+    "name" : "thread",
+    "value" : "24012-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_file13"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ {
+      "uid" : "2b37ce4de68e9f99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614580738329,
+        "stop" : 1614580738329,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6a4248dfd37d2a6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614573599145,
+        "stop" : 1614573599146,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "36c6f95ef2ad5c3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614571821893,
+        "stop" : 1614571821894,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "330a8a5087d806df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614529851449,
+        "stop" : 1614529851449,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6bab1df0bebaa0e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614503954165,
+        "stop" : 1614503954165,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "343a00702fdaf49f.json",
+  "parameterValues" : [ ]
+}

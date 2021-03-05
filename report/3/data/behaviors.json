@@ -1,0 +1,133 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "登录模块",
+    "children" : [ {
+      "name" : "登录成功",
+      "children" : [ {
+        "name" : "test_login_a",
+        "uid" : "4c7d67bf23869ae1",
+        "parentUid" : "57a00934f1bd353362aa1d78642bc405",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614612095718,
+          "stop" : 1614612095719,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "57a00934f1bd353362aa1d78642bc405"
+    }, {
+      "name" : "登录失败",
+      "children" : [ {
+        "name" : "test_login_b",
+        "uid" : "5896505b2cde1084",
+        "parentUid" : "e3ad7243d130097a0b853dba02afbe33",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614612095721,
+          "stop" : 1614612095722,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e3ad7243d130097a0b853dba02afbe33"
+    }, {
+      "name" : "用户名缺失",
+      "children" : [ {
+        "name" : "test_login_c",
+        "uid" : "be876cb12ac1bc51",
+        "parentUid" : "b4165c8b5def7321273500df2f4b899d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614612095735,
+          "stop" : 1614612095735,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b4165c8b5def7321273500df2f4b899d"
+    }, {
+      "name" : "密码缺失",
+      "children" : [ {
+        "name" : "test_login_d",
+        "uid" : "4f507715eb74867d",
+        "parentUid" : "773951a1a9bffe46ddf4de5e2dfdb86c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614612095738,
+          "stop" : 1614612095739,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "773951a1a9bffe46ddf4de5e2dfdb86c"
+    }, {
+      "name" : "链接功能",
+      "children" : [ {
+        "name" : "test_with_link",
+        "uid" : "89894d89d3f834b1",
+        "parentUid" : "ae756ea2e530eb66543f775666ea8512",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614612095741,
+          "stop" : 1614612095741,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ae756ea2e530eb66543f775666ea8512"
+    }, {
+      "name" : "test_attach_text",
+      "uid" : "29ca2edb374b42b4",
+      "parentUid" : "6958045a481574bf02bb11ef07a7047b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612095743,
+        "stop" : 1614612095744,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_attach_html",
+      "uid" : "772ea9e88187274b",
+      "parentUid" : "6958045a481574bf02bb11ef07a7047b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612095746,
+        "stop" : 1614612095747,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_attach_photo",
+      "uid" : "d9fb6e3d65178ee2",
+      "parentUid" : "6958045a481574bf02bb11ef07a7047b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614612095750,
+        "stop" : 1614612095751,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "6958045a481574bf02bb11ef07a7047b"
+  } ]
+}
